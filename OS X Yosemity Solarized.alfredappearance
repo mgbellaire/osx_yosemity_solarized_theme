@@ -68,14 +68,14 @@
 	<key>searchFont</key>
 	<string>Helvetica Neue Light</string>
 	<key>searchFontSize</key>
-	<integer>3</integer>
+	<integer>2</integer>
 	<key>searchForegroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
 	ZmZmg8hgXD+DyGBcP4PIYFw/AYY=
 	</data>
 	<key>searchPaddingSize</key>
-	<integer>1</integer>
+	<integer>2</integer>
 	<key>searchSelectionBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
