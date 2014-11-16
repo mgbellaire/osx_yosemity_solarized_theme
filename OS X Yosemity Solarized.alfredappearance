@@ -75,7 +75,7 @@
 	ZmZmg8hgXD+DyGBcP4PIYFw/AYY=
 	</data>
 	<key>searchPaddingSize</key>
-	<integer>2</integer>
+	<integer>1</integer>
 	<key>searchSelectionBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMBhARm
@@ -106,7 +106,7 @@
 	ZmZmg2ZmJj+DZmYmP4NmZiY/AYY=
 	</data>
 	<key>uid</key>
-	<string>alfred.theme.custom.9E60AD7C-70C9-4580-B327-968C10279CBB</string>
+	<string>alfred.theme.custom.D18DCF67-CDA5-43B7-B94F-04EC54C982E6</string>
 	<key>widthSize</key>
 	<integer>2</integer>
 </dict>
