@@ -5,7 +5,7 @@
 	<key>background</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg/LwcD2DrawsPoPOzEw+AYY=
+	ZmZmg/LwcD2DrawsPoPOzEw+g5qZWT+G
 	</data>
 	<key>border</key>
 	<data>
@@ -13,7 +13,7 @@
 	ZmZmAAAAAIY=
 	</data>
 	<key>cornerRoundness</key>
-	<integer>3</integer>
+	<integer>0</integer>
 	<key>credits</key>
 	<string>Mark Bellaire</string>
 	<key>imageStyle</key>
@@ -63,7 +63,7 @@
 	<key>searchBackgroundColor</key>
 	<data>
 	BAtzdHJlYW10eXBlZIHoA4QBQISEhAdOU0NvbG9yAISECE5TT2JqZWN0AIWEAWMChARm
-	ZmZmg9LQ0D2D6uhoPoORkJA+AYY=
+	ZmZmg9LQ0D2D6uhoPoORkJA+gwAAQD+G
 	</data>
 	<key>searchFont</key>
 	<string>Helvetica Neue Light</string>
